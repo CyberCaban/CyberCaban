@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋</h1>
-  <img src="https://media1.tenor.com/m/RvTdiWcK6lYAAAAC/aesthetic-cyber.gif"></img>
+  <img src="https://media1.tenor.com/m/RvTdiWcK6lYAAAAC/aesthetic-cyber.gif" width="400" height="400"></img>
 </div>
 
 ---
