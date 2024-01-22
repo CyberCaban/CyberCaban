@@ -32,10 +32,18 @@ I am Dmitry, a freshman student of Yaroslavl State University, Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/018c78ca-a336-4935-b7b3-14d86c16682a.svg)](https://wakatime.com/@018c78ca-a336-4935-b7b3-14d86c16682a)
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CyberCaban&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCaban&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=CyberCaban&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCaban&theme=transparent&hide_border=true"/>
+  </a>
+</div>
+
 <!--
 **CyberCaban/CyberCaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
