@@ -8,7 +8,7 @@
 ### About me:
 I am Dmitry, a freshman student of Yaroslavl State University, Russia.
 - 🌱 Currently i'm learning web dev and all things around it.
-- 💬 Ask me anything about React maybe i'll answer it...🙃
+- 💬 Your John React Javascript)
 
 ---
 
