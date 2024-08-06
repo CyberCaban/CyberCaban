@@ -16,6 +16,7 @@ I am Dmitry, a freshman student of Yaroslavl State University, Russia.
 <div>
   <label for="languages"><h4>Languages</h4><label/>
     <div name="languages">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" title="Rust" alt="Rust" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JabaScript" alt="JavaScript" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
