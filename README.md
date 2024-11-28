@@ -7,7 +7,7 @@
 ---
 
 ### About me:
-I am Dmitry, a freshman student of Yaroslavl State University, Russia.
+I am Dmitry, a student of Yaroslavl State University, Russia.
 - 🌱 Currently i'm learning web dev and all things around it.
 - 💬 Your John React Javascript)
 
@@ -50,7 +50,7 @@ I am Dmitry, a freshman student of Yaroslavl State University, Russia.
       <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="SocketIO" alt="SocketIO" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" title="FramerMotion" alt="FramerMotion" width="40" height="40"/>
+<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" title="FramerMotion" alt="FramerMotion" width="40" height="40"/> -->
     <div/>
 </div>
 
