@@ -28,7 +28,7 @@ I am Dmitry, a student of Yaroslavl State University, Russia.
   <div name="tools">
       <!--       <img src="" title="ex" alt="ex" width="40" height="40"/> -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows 11" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/>
+<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/> -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="40" height="40"/>
   </div>
   <label for="IDE's"><h4>IDE's and VCS</h4><label/>
@@ -38,7 +38,7 @@ I am Dmitry, a student of Yaroslavl State University, Russia.
       <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
     <div/>
-       <label for="libs"><h4>Libraries and frameworks</h4><label/>
+       <label for="libs"><h4>Additional Tags</h4><label/>
     <div name="libs">
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
@@ -50,7 +50,6 @@ I am Dmitry, a student of Yaroslavl State University, Russia.
       <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="SocketIO" alt="SocketIO" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>
-<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" title="FramerMotion" alt="FramerMotion" width="40" height="40"/> -->
     <div/>
 </div>
 
